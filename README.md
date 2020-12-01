@@ -1,4 +1,4 @@
-# Procedure::: 
+# Procedure... 
 
 
 ### Modules used : translate
@@ -14,7 +14,7 @@
 
 
 
-##### replace the value of _from_lang_ and _to_lang_ of your choice languages || In translate() add the text you want to translate
+##### replace the value of _from_lang_ and _to_lang_ of your choice languages && In translate() add the text you want to translate
 
 
 
@@ -26,5 +26,5 @@
    
    
    
-   [Screenshot](translate_.png)
+   ![Screenshot](translate_.png)
 

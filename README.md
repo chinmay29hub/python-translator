@@ -21,7 +21,7 @@
 
 
 #### OUPUT ::::   
-   Input (inside the code) : Hola codificadora ...(Spanish)
+   Input (inside the code) : Hola ......(Spanish)
 ###### After Execution:   
 
 
